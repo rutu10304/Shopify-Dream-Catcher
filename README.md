@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Right Knot - Handcrafted E-Commerce Platform
 
 Welcome to **The Right Knot** - a complete e-commerce solution for handcrafted products including dreamcatchers, macrame, keychains, and wall art.
@@ -156,3 +157,6 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+=======
+# Shopify-Dream-Catcher
+>>>>>>> 6e020cc23f32cb8d368e47d1ca2373ca858d7bd5
